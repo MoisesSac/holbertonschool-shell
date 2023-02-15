@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -i *.html basics
+cp -vu *.html basics
